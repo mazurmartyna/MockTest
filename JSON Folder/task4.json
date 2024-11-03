@@ -1,0 +1,22 @@
+{
+    "nazwa_pojazdu": "Autobus",
+    "numer_lini": 300,
+    "przystanek poczatkowy": "Os. Podwawelskie",
+    "linia nocna": false,
+    "jak osobiscie oceniam ten autobus": 4.5,
+    "wszystkie przystanki": [
+        "Os. Podwawelskie",
+        "Rondo Grunwaldzkie",
+        "Jubilat",
+        "Cracovia Błonia",
+        "Chełm",
+        "Olszanica Bory",
+        "Kraków Airport"
+    ],
+    "specyfikacje pojazdu": 
+    {   "max_predkość_km/h" : 100,
+        "długość_m":9,
+        "rodzaj silnika": "elektryczny"
+    },
+    "czy_polecam": "zalezy od pory dnia, polecam"
+}
