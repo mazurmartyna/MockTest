@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PublicTransportInKrakow>
+    <Autobus>
+        <nrLini czylinianocna="nie" strefa="1+2">102</nrLini>
+        <przystanekPoczatkowy strefa="1">Krowodrza gorka P+R</przystanekPoczatkowy>
+        <przystanekKoncowy strefa="1">Bielany</przystanekKoncowy>
+        <iloscPrzystankow>27</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini czylinianocna="nie" strefa="1+2">112</nrLini>
+        <przystanekPoczatkowy strefa="1">Os. Podwawelskie</przystanekPoczatkowy>
+        <przystanekKoncowy strefa="3">Tyniec</przystanekKoncowy>
+        <iloscPrzystankow>17</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini czylinianocna="nie" strefa="1+2">219</nrLini>
+        <przystanekPoczatkowy strefa="1">Os. Podwawelskie</przystanekPoczatkowy>
+        <przystanekKoncowy strefa="2">Jeziorzany Pętla</przystanekKoncowy>
+        <iloscPrzystankow>32</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini czylinianocna="nie" strefa="1">300</nrLini>
+        <przystanekPoczatkowy strefa="1">Os. Podwawelskie</przystanekPoczatkowy>
+        <przystanekKoncowy strefa="1">Kraków Airport</przystanekKoncowy>
+        <iloscPrzystankow>7</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini czylinianocna="nie" strefa="1">501</nrLini>
+        <przystanekPoczatkowy strefa="1">Bulwarowa</przystanekPoczatkowy>
+        <przystanekKoncowy strefa="1">Chełmańskiego Pętla</przystanekKoncowy>
+        <iloscPrzystankow>27</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini czylinianocna="nie" strefa="1">902</nrLini>
+        <przystanekPoczatkowy strefa="1">Dworzec Główny Wschód</przystanekPoczatkowy>
+        <przystanekKoncowy strefa="1">Kraków Airport</przystanekKoncowy>
+        <iloscPrzystankow>32</iloscPrzystankow>
+    </Autobus>
+</PublicTransportInKrakow>
