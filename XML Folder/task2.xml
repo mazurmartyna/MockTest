@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PublicTransportInKrakow>
+    <Autobus>
+        <nrLini>102</nrLini>
+        <przystanekPoczatkowy>Krowodrza gorka P+R</przystanekPoczatkowy>
+        <przystanekKoncowy>Bielany</przystanekKoncowy>
+        <iloscPrzystankow>27</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini>112</nrLini>
+        <przystanekPoczatkowy>Os. Podwawelskie</przystanekPoczatkowy>
+        <przystanekKoncowy>Tyniec</przystanekKoncowy>
+        <iloscPrzystankow>17</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini>219</nrLini>
+        <przystanekPoczatkowy>Os. Podwawelskie</przystanekPoczatkowy>
+        <przystanekKoncowy>Jeziorzany Pętla</przystanekKoncowy>
+        <iloscPrzystankow>32</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini>300</nrLini>
+        <przystanekPoczatkowy>Os. Podwawelskie</przystanekPoczatkowy>
+        <przystanekKoncowy>Kraków Airport</przystanekKoncowy>
+        <iloscPrzystankow>7</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini>501</nrLini>
+        <przystanekPoczatkowy>Bulwarowa</przystanekPoczatkowy>
+        <przystanekKoncowy>Chełmańskiego Pętla</przystanekKoncowy>
+        <iloscPrzystankow>27</iloscPrzystankow>
+    </Autobus>
+    <Autobus>
+        <nrLini>902</nrLini>
+        <przystanekPoczatkowy>Dworzec Główny Wschód</przystanekPoczatkowy>
+        <przystanekKoncowy>Kraków Airport</przystanekKoncowy>
+        <iloscPrzystankow>32</iloscPrzystankow>
+    </Autobus>
+</PublicTransportInKrakow>
