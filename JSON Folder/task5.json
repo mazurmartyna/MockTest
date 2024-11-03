@@ -1,0 +1,45 @@
+[
+    {
+        "typ pojazdu": "Autobus",
+        "numer lini": 102,
+        "czy linia nocna?": false,
+        "ilość przystanków": 27,
+        "przystanek początkowy": "Bielany" 
+    },
+    
+    {
+        "typ pojazdu": "Autobus",
+        "numer lini": 112,
+        "czy linia nocna?": false,
+        "ilość przystanków": 17,
+        "przystanek początkowy": "Os. Podwawelskie" 
+    },
+    {
+        "typ pojazdu": "Autobus",
+        "numer lini": 219,
+        "czy linia nocna?": false,
+        "ilość przystanków": 32,
+        "przystanek początkowy": "Os. Podwawelskie" 
+    },
+    {
+        "typ pojazdu": "Autobus",
+        "numer lini": 300,
+        "czy linia nocna?": false,
+        "ilość przystanków": 7,
+        "przystanek początkowy": "Os. Podwawelskie" 
+    },
+    {
+        "typ pojazdu": "Autobus",
+        "numer lini": 501,
+        "czy linia nocna?": false,
+        "ilość przystanków": 27,
+        "przystanek początkowy": "Bulwarowa" 
+    },
+    {
+        "typ pojazdu": "Autobus",
+        "numer lini": 902,
+        "czy linia nocna?": true,
+        "ilość przystanków": 32,
+        "przystanek początkowy": "Dworzec Główny Wschód" 
+    }
+]
