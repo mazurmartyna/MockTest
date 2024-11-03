@@ -26,3 +26,8 @@ The table below provides an overview of key statistics related to public transpo
 
 ## Images
 
+![A picture of a tram](/IMG%20Folder/tram-4575380_960_720.jpg "A tram on a road")
+
+![Another pic of a tram](https://c8.alamy.com/comp/RBRNW0/krakow-poland-august-28-2018-red-hop-on-hop-off-touristic-bus-for-sightseeing-in-and-blue-public-tram-on-starowislna-street-city-sightseeing-to-RBRNW0.jpg)
+
+![A pic of a bus](https://d1vpzb8ccuu79x.cloudfront.net/wp-content/uploads/Krakow.jpg)
