@@ -7,6 +7,7 @@
 
 ## Introduction
 
+https://docs.google.com/document/d/1XZxIfaSolBjGN0ELo-wLWHIRaCvxFdo6_YomFhgDyPI/edit?usp=drivesdk
 Krakow, one of Poland’s most historic and culturally rich cities, boasts a public transport system that plays a crucial role in the daily lives of its residents and visitors alike. With a population of over 780,000, the city’s extensive network of trams, buses, and urban rail provides essential connectivity, making it easy to navigate the vibrant neighborhoods and attractions. The public transport infrastructure not only supports the local economy but also contributes to reducing traffic congestion, making Krakow a more livable and environmentally friendly city.
 
 The city’s public transport system is characterized by its efficiency and accessibility. With an integrated ticketing system, passengers can seamlessly switch between different modes of transport, simplifying their travel experience. Krakow’s trams, which date back to the late 19th century, serve as a backbone of the network, while buses complement the routes, ensuring that even the most remote areas are connected. The commitment to maintaining and improving this system reflects the city’s dedication to enhancing urban mobility and meeting the needs of its growing population.
